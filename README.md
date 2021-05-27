@@ -1,7 +1,4 @@
 
-https://user-images.githubusercontent.com/63849944/119813651-35dd7100-bef2-11eb-8bfc-c7a0fa3f38f5.mp4
-
-
 # React Quiz Game
 
 Simple quiz game made with react.
